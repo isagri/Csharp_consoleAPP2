@@ -1,0 +1,12 @@
+C:\Users\Utilisateur\csharp\source\repos\ConsoleApp2\ConsoleApp2_withLib\obj\Debug\ConsoleApp2_withLib.csprojAssemblyReference.cache
+C:\Users\Utilisateur\csharp\source\repos\ConsoleApp2\ConsoleApp2_withLib\obj\Debug\ConsoleApp2_withLib.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\csharp\source\repos\ConsoleApp2\ConsoleApp2_withLib\bin\Debug\ConsoleApp2_withLib.exe.config
+C:\Users\Utilisateur\csharp\source\repos\ConsoleApp2\ConsoleApp2_withLib\bin\Debug\ConsoleApp2_withLib.exe
+C:\Users\Utilisateur\csharp\source\repos\ConsoleApp2\ConsoleApp2_withLib\bin\Debug\ConsoleApp2_withLib.pdb
+C:\Users\Utilisateur\csharp\source\repos\ConsoleApp2\ConsoleApp2_withLib\bin\Debug\TransportLinesLib.dll
+C:\Users\Utilisateur\csharp\source\repos\ConsoleApp2\ConsoleApp2_withLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Utilisateur\csharp\source\repos\ConsoleApp2\ConsoleApp2_withLib\bin\Debug\TransportLinesLib.pdb
+C:\Users\Utilisateur\csharp\source\repos\ConsoleApp2\ConsoleApp2_withLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Utilisateur\csharp\source\repos\ConsoleApp2\ConsoleApp2_withLib\obj\Debug\ConsoleApp2_withLib.csproj.CopyComplete
+C:\Users\Utilisateur\csharp\source\repos\ConsoleApp2\ConsoleApp2_withLib\obj\Debug\ConsoleApp2_withLib.exe
+C:\Users\Utilisateur\csharp\source\repos\ConsoleApp2\ConsoleApp2_withLib\obj\Debug\ConsoleApp2_withLib.pdb
